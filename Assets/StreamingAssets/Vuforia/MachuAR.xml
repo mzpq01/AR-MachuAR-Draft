@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="machuTarget-04" size="400.000000 280.176208" />
+    <ImageTarget name="machuTarget-03" size="200.000000 279.929565" />
+    <ImageTarget name="machuTarget-02" size="200.000000 279.929565" />
+    <ImageTarget name="machuTarget-01" size="400.000000 280.176208" />
+  </Tracking>
+</QCARConfig>
